@@ -85,7 +85,8 @@
 
 .navbar .navbar-brand,
 .navbar a.btn {
-    height: 75px;
+   margin: 10px;
+   max-width: 20%;
 }
 
 .navbar .navbar-nav .nav-link {
@@ -141,7 +142,6 @@
         opacity: 1;
     }
 }
-
 
 /*** Header ***/
 .owl-carousel-inner {
@@ -446,8 +446,8 @@
 
 .testimonial-carousel .owl-nav {
     position: absolute;
-    width: 350px;
-    top: 20px;
+    width: 370px;
+    top: 60px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
@@ -476,8 +476,8 @@
 }
 
 .testimonial-carousel .testimonial-img img {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
 
 .testimonial-carousel .testimonial-img .btn-square {
