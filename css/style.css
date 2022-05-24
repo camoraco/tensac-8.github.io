@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #32C36C;
+    --primary: #247E75;
     --light: #F6F7F8;
     --dark: #1A2A36;
 }
@@ -267,7 +267,7 @@
 
 .service-item:hover .service-icon {
     color: #FFFFFF;
-    background: var(--primary);
+    background: var(--dark);
 }
 
 
